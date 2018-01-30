@@ -1,7 +1,7 @@
-### Experience
+# Experience
 
 ## Architectural Drafter
-# McIntyre and Cross Architects
+### McIntyre and Cross Architects
 Architectural (Sketches, Town Planning, Tender, Building Approval and Working/Construction drawings). Drawings packages for Commercial and Residential Projects. Refer to further breakdown of task below:
 - Drafting for numerous Architectural projects including:
 - Residential Developments.
