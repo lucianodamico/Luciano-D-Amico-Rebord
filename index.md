@@ -5,19 +5,20 @@
 Architectural (Sketches, Town Planning, Tender, Building Approval and Working/Construction drawings). Drawings packages for Commercial and Residential Projects. Refer to further breakdown of task below:
 - Drafting for numerous Architectural projects including:
 - Residential Developments.
-	Petrol stations.
-	Franchise Cafes & Restaurants
-	Additional Tasks:
-	Many projects required additional specific tasks including:
-	Cabinetry layout drawings.
-	Detailing / cladding patterns.
-	Sections
-	Elevations
-	Internal elevations
-	Finished & Material Schedule
-	Doors & Windows Schedule
-	Signage
-	Specific Residential Development:
+- Petrol stations.
+- Franchise Cafes & Restaurants.
+-	Additional Tasks:
+-	Many projects required additional specific tasks including:
+-	Cabinetry layout drawings.
+- Detailing / cladding patterns.
+-	Sections
+-	Elevations
+- Internal elevations
+- Finished & Material Schedule
+- Doors & Windows Schedule
+- Signage
+
+###	Specific Residential Development:
 	33 Units in 5 story Building site Dorcas St – South Melbourne. Tasks completed include:
 	Architectural working drawings for Customs Apartments.
 	Correspondence with client as drawings developed.
@@ -38,12 +39,7 @@ Architectural (Sketches, Town Planning, Tender, Building Approval and Working/Co
 	Prepared drawings packages for Engineers.
 	Revise Architectural Planning Drawings for Council endorsement.
 
-
-
-
-
-
-	Specific new Commercial – Retail project:
+###	Specific new Commercial – Retail project:
 	New BP Petrol Station site Donnybrook Rd – Merrifield. Prepared documentation for Tender and Building Approval.
 	Proposed site plan
 	Floor plan
