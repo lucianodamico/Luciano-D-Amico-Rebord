@@ -3,20 +3,20 @@
 ## Architectural Drafter
 ### McIntyre and Cross Architects
 Architectural (Sketches, Town Planning, Tender, Building Approval and Working/Construction drawings). Drawings packages for Commercial and Residential Projects. Refer to further breakdown of task below:
-- Drafting for numerous Architectural projects including:
-- Residential Developments.
-- Petrol stations.
-- Franchise Cafes & Restaurants.
--	Additional Tasks:
--	Many projects required additional specific tasks including:
--	Cabinetry layout drawings.
-- Detailing / cladding patterns.
--	Sections
--	Elevations
-- Internal elevations
-- Finished & Material Schedule
-- Doors & Windows Schedule
-- Signage
+1. Drafting for numerous Architectural projects including:
+- Residential Developments
+- Petrol stations
+- Franchise Cafes & Restaurants
+2. Additional Tasks:
+- Many projects required additional specific tasks including:
+ -	Cabinetry layout drawings
+ - Detailing / cladding patterns
+ -	Sections
+ -	Elevations
+ - Internal elevations
+ - Finished & Material Schedule
+ - Doors & Windows Schedule
+ - Signage
 
 ###	Specific Residential Development:
 	33 Units in 5 story Building site Dorcas St – South Melbourne. Tasks completed include:
