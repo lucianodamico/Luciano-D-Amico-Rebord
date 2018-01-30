@@ -1,7 +1,7 @@
 # Experience
 
-**December 2016-** ## Architectural Drafter
-**Current				** ### McIntyre and Cross Architects
+**December 2016-**|## Architectural Drafter
+**Current	**|### McIntyre and Cross Architects
 **Collingwood		** Architectural (Sketches, Town Planning, Tender, Building Approval and Working/Construction drawings). 			
 									 Drawings packages for Commercial and Residential Projects. Refer to further breakdown of task below:
 									 1. Drafting for numerous Architectural projects including:
