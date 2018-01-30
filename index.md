@@ -7,19 +7,17 @@ Architectural (Sketches, Town Planning, Tender, Building Approval and Working/Co
 - Residential Developments
 - Petrol stations
 - Franchise Cafes & Restaurants
-2. Additional Tasks:
-- Many projects required additional specific tasks including:
- -	Cabinetry layout drawings
- - Detailing / cladding patterns
- -	Sections
- -	Elevations
- - Internal elevations
- - Finished & Material Schedule
- - Doors & Windows Schedule
- - Signage
-
-###	Specific Residential Development:
-	33 Units in 5 story Building site Dorcas St – South Melbourne. Tasks completed include:
+2. Many projects required additional specific tasks including:
+-	Cabinetry layout drawings
+- Detailing / cladding patterns
+-	Sections
+-	Elevations
+- Internal elevations
+- Finished & Material Schedule
+- Doors & Windows Schedule
+- Signage
+3. Specific Residential Development:
+_33 Units in 5 story Building site Dorcas St – South Melbourne. Tasks completed include:
 	Architectural working drawings for Customs Apartments.
 	Correspondence with client as drawings developed.
 	Updated drawings with the Interior Designer.
