@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Luciano D'Amico Rebord
+title: Luciano D'Amico Rebord
 ---
 
 # Experience
