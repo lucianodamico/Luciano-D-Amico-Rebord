@@ -1,3 +1,8 @@
+---
+layout: default
+name: Luciano D'Amico Rebord
+---
+
 # Experience
 
 ## Architectural Drafter
