@@ -19,7 +19,7 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
     - Doors & Windows Schedule
     - Signage
   * Specific Residential Development:
-    - **_33 Units in 5 story Building site Dorcas St – South Melbourne. Tasks completed include:_**
+     **_33 Units in 5 story Building site Dorcas St – South Melbourne. Tasks completed include:_**
      - Architectural working drawings for Customs Apartments.
      - Correspondence with client as drawings developed.
      - Updated drawings with the Interior Designer.
@@ -28,7 +28,7 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
      - Check and approved Pre-cast Panel drawings from Contractor. 
      - Check and approved Drawings from Contractor with location/dimensions of penetrations in slabs.
   * Specific Franchise – Commercial fit out/updated projects:
-    - **_Prepared documentation for Building Approval for McDonald’s Altona and Balwyn. Task completed included:_**
+     **_Prepared documentation for Building Approval for McDonald’s Altona and Balwyn. Task completed included:_**
      - Update Floor plans
      - New enclosure for kids “Play Land” area.
      - Elevations and Sections.
@@ -38,18 +38,17 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
      - Detailing windows, doors, cladding and finishes.
      - Prepared drawings packages for Engineers.
      - Revise Architectural Planning Drawings for Council endorsement.
-  
-5. Specific new Commercial – Retail project:
-- **_New BP Petrol Station site Donnybrook Rd – Merrifield. Prepared documentation for Tender and Building Approval._**
-  - Proposed site plan
-  - Floor plan
-  - Elevations and sections
-  - Internal elevations
-  - Section detail and Construction details.
-  - Roof plan and Signage plan.
-  - Door & Windows schedules.
-  - Finishes schedules.
-  - Equipment schedule.
+   * Specific new Commercial – Retail project:
+      **_New BP Petrol Station site Donnybrook Rd – Merrifield. Prepared documentation for Tender and Building Approval._**
+      - Proposed site plan
+      - Floor plan
+      - Elevations and sections
+      - Internal elevations
+      - Section detail and Construction details.
+      - Roof plan and Signage plan.
+      - Door & Windows schedules.
+      - Finishes schedules.
+      - Equipment schedule.
 
 
 ### Platinum Group Design – Platinum Group Construct
