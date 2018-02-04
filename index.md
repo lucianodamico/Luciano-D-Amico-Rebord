@@ -28,6 +28,7 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
      - Check and approved Pre-cast Panel drawings from Contractor. 
      - Check and approved Drawings from Contractor with location/dimensions of penetrations in slabs.
   * Specific Franchise – Commercial fit out/updated projects:
+  
      **_Prepared documentation for Building Approval for McDonald’s Altona and Balwyn. Task completed included:_**
      - Update Floor plans
      - New enclosure for kids “Play Land” area.
