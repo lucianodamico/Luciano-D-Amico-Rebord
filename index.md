@@ -53,7 +53,7 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
       - Finishes schedules.
       - Equipment schedule.
 
-
+___
 ### Platinum Group Design & Construct
 *May 2015 - November 2016 | Collingwood*
 
