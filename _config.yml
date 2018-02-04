@@ -3,3 +3,4 @@ description: Architectural Draftsman since 2007
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+layout: default 
