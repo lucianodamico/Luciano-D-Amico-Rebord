@@ -54,38 +54,40 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
       - Equipment schedule.
 
 
-### Platinum Group Design – Platinum Group Construct
+### Platinum Group Design & Construct
 *May 2015 - November 2016 | Collingwood*
 
 In General: Architectural (Planning and Working). Drawing packages for Commercial, Industrial and Residential Projects. Structural Documentation also undertaken for certain projects as required. Refer to further breakdown of tasks below:
-1. Drafting for numerous Architectural and Structural fit out Projects including:
-  - Retail premises.
-  - Cafes.
-  -	Restaurants.
-  -	Butcher shop.
-  -	Plumbing display centre.
-  -	Warehouses (including new mezzanine floor).
-2. Aditional Tasks:
-  -	Many projects required additional specific tasks including:
-  -	Section “J” assessments. (Action recommendations with external consultant reports)
-  -	Cabinetry layout drawings.
-  - Areas / material take off for estimating purposes and material ordering.
-  -	Specific detailing for items such as customized glazing frames, steelwork shop drawings.
-  -	Detailing / cladding patterns.
-  - Display set outs / locations.
-3. Specific Residential Development:
-  - Two Unit site Canterbury Rd – Blackburn. Tasks completed include:
-    - Architectural Planning and working drawings for French Provincial Style Units.
-    - On site measurements.
-    - Correspondence with client as drawings developed.
-    - Revising drawings as required for Council amendment requests.
-    - Setting up Cad files bases for Drainage and Structural drawings.
-    - Discussions with in house engineer regarding construction method and issues.
-    - Specific Industrial Development:
-  - 12 Unit Warehouse Development, Hyde St – Yarraville. Tasks completed include:
-    - Revise Architectural Planning Drawings for Council endorsement.
-    - Prepare Architectural Working Drawings.
-    - Set up Structural, Civil and Concrete Panel elevation drawings.
+  * Drafting for numerous Architectural and Structural fit out Projects including:
+   - Retail premises.
+   - Cafes.
+   -	Restaurants.
+   -	Butcher shop.
+   -	Plumbing display centre.
+   -	Warehouses (including new mezzanine floor).
+  * Aditional Tasks:
+   -	Many projects required additional specific tasks including:
+   - Section “J” assessments. (Action recommendations with external consultant reports)
+   -	Cabinetry layout drawings.
+   - Areas / material take off for estimating purposes and material ordering.
+   -	Specific detailing for items such as customized glazing frames, steelwork shop drawings.
+   -	Detailing / cladding patterns.
+   - Display set outs / locations.
+  * Specific Residential Development:
+  
+    **_Two Unit site Canterbury Rd – Blackburn. Tasks completed include:_**
+     - Architectural Planning and working drawings for French Provincial Style Units.
+     - On site measurements.
+     - Correspondence with client as drawings developed.
+     - Revising drawings as required for Council amendment requests.
+     - Setting up Cad files bases for Drainage and Structural drawings.
+     - Discussions with in house engineer regarding construction method and issues.
+     - Specific Industrial Development:
+     
+     **_12 Unit Warehouse Development, Hyde St – Yarraville. Tasks completed include:_**
+     - Revise Architectural Planning Drawings for Council endorsement.
+     - Prepare Architectural Working Drawings.
+     - Set up Structural, Civil and Concrete Panel elevation drawings.
                                
 
                    
@@ -95,7 +97,7 @@ In General: Architectural (Planning and Working). Drawing packages for Commercia
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in Wheneveryour Markdown files.
 
 ### Markdown
 
