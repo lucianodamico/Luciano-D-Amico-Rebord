@@ -19,7 +19,8 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
     - Doors & Windows Schedule
     - Signage
   * Specific Residential Development:
-    + **_33 Units in 5 story Building site Dorcas St – South Melbourne. Tasks completed include:_**
+  
+    **_33 Units in 5 story Building site Dorcas St – South Melbourne. Tasks completed include:_**
      - Architectural working drawings for Customs Apartments.
      - Correspondence with client as drawings developed.
      - Updated drawings with the Interior Designer.
@@ -40,7 +41,8 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
      - Prepared drawings packages for Engineers.
      - Revise Architectural Planning Drawings for Council endorsement.
    * Specific new Commercial – Retail project:
-      **_New BP Petrol Station site Donnybrook Rd – Merrifield. Prepared documentation for Tender and Building Approval._**
+   
+     **_New BP Petrol Station site Donnybrook Rd – Merrifield. Prepared documentation for Tender and Building Approval._**
       - Proposed site plan
       - Floor plan
       - Elevations and sections
