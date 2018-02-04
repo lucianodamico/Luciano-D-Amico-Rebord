@@ -1,16 +1,15 @@
-# Experience
+## Experience
 
-## Architectural Drafter
 ### McIntyre and Cross Architects
 *December 2016 - Current | Collingwood*
 
 Architectural (Sketches, Town Planning, Tender, Building Approval and Working/Construction drawings). 			
 Drawings packages for Commercial and Residential Projects. Refer to further breakdown of task below:
-1. Drafting for numerous Architectural projects including:
+..* Drafting for numerous Architectural projects including:
   * Residential Developments
   * Petrol stations
   * Franchise Cafes & Restaurants
-2. Many projects required additional specific tasks including:
+..* Many projects required additional specific tasks including:
 - Cabinetry layout drawings
 - Detailing / cladding patterns
 - Sections
@@ -52,6 +51,46 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
   - Door & Windows schedules.
   - Finishes schedules.
   - Equipment schedule.
+
+
+### Platinum Group Design – Platinum Group Construct
+*May 2015 - November 2016 | Collingwood*
+
+In General: Architectural (Planning and Working). Drawing packages for Commercial, Industrial and Residential Projects. Structural Documentation also undertaken for certain projects as required. Refer to further breakdown of tasks below:
+1. Drafting for numerous Architectural and Structural fit out Projects including:
+  - Retail premises.
+  - Cafes.
+  -	Restaurants.
+  -	Butcher shop.
+  -	Plumbing display centre.
+  -	Warehouses (including new mezzanine floor).
+2. Aditional Tasks:
+  -	Many projects required additional specific tasks including:
+  -	Section “J” assessments. (Action recommendations with external consultant reports)
+  -	Cabinetry layout drawings.
+  - Areas / material take off for estimating purposes and material ordering.
+  -	Specific detailing for items such as customized glazing frames, steelwork shop drawings.
+  -	Detailing / cladding patterns.
+  - Display set outs / locations.
+3. Specific Residential Development:
+  - Two Unit site Canterbury Rd – Blackburn. Tasks completed include:
+    - Architectural Planning and working drawings for French Provincial Style Units.
+    - On site measurements.
+    - Correspondence with client as drawings developed.
+    - Revising drawings as required for Council amendment requests.
+    - Setting up Cad files bases for Drainage and Structural drawings.
+    - Discussions with in house engineer regarding construction method and issues.
+    - Specific Industrial Development:
+  - 12 Unit Warehouse Development, Hyde St – Yarraville. Tasks completed include:
+    - Revise Architectural Planning Drawings for Council endorsement.
+    - Prepare Architectural Working Drawings.
+    - Set up Structural, Civil and Concrete Panel elevation drawings.
+                               
+
+                   
+                   
+    
+
 
 
 
