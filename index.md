@@ -59,20 +59,20 @@ ___
 
 In General: Architectural (Planning and Working). Drawing packages for Commercial, Industrial and Residential Projects. Structural Documentation also undertaken for certain projects as required. Refer to further breakdown of tasks below:
   * Drafting for numerous Architectural and Structural fit out Projects including:
-   - Retail premises.
-   - Cafes.
-   -	Restaurants.
-   -	Butcher shop.
-   -	Plumbing display centre.
-   -	Warehouses (including new mezzanine floor).
+    - Retail premises.
+    - Cafes.
+    -	Restaurants.
+    -	Butcher shop.
+    -	Plumbing display centre.
+    -	Warehouses (including new mezzanine floor).
   * Aditional Tasks:
-   -	Many projects required additional specific tasks including:
-   - Section “J” assessments. (Action recommendations with external consultant reports)
-   -	Cabinetry layout drawings.
-   - Areas / material take off for estimating purposes and material ordering.
-   -	Specific detailing for items such as customized glazing frames, steelwork shop drawings.
-   -	Detailing / cladding patterns.
-   - Display set outs / locations.
+    -	Many projects required additional specific tasks including:
+    - Section “J” assessments. (Action recommendations with external consultant reports)
+    -	Cabinetry layout drawings.
+    - Areas / material take off for estimating purposes and material ordering.
+    -	Specific detailing for items such as customized glazing frames, steelwork shop drawings.
+    -	Detailing / cladding patterns.
+    - Display set outs / locations.
   * Specific Residential Development:
   
     **_Two Unit site Canterbury Rd – Blackburn. Tasks completed include:_**
