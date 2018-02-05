@@ -90,10 +90,10 @@ In General: Architectural (Planning and Working). Drawing packages for Commercia
      - Set up Structural, Civil and Concrete Panel elevation drawings
 
 ## Education
-2013-2014 | **Certificate III in General English** | North Melbourne
-          | **Certificate IV in General English**  | 
-          [Southern Cross Education Institute](https://scei.edu.au/)
-          
+|2013-2014 | **Certificate III in General English** | 
+|          | **Certificate IV in General English**  |
+[Southern Cross Education Institute](https://scei.edu.au/)
+```North Melbourne```          
 
                    
                    
