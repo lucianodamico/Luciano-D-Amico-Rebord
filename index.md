@@ -91,9 +91,10 @@ In General: Architectural (Planning and Working). Drawing packages for Commercia
 
 ## Education
 
-2013-2014
+_2013-2014 - North Melbourne_
+
 **Certificate III in General English**
+
 **Certificate IV in General English** 
 
 [Southern Cross Education Institute](https://scei.edu.au/)
->North Melbourne        
