@@ -1,5 +1,4 @@
 ## Experience
----
 
 ### McIntyre and Cross Architects
 *December 2016 - Current | Collingwood*
@@ -54,7 +53,7 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
       - Finishes schedules
       - Equipment schedule
 
-===
+---
 ### Platinum Group Design & Construct
 *May 2015 - November 2016 | Collingwood*
 
