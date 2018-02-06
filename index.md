@@ -1,4 +1,5 @@
 ## Experience
+---
 
 ### McIntyre and Cross Architects
 *December 2016 - Current | Collingwood*
