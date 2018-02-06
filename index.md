@@ -111,7 +111,7 @@ _2013-2014 - North Melbourne_
  
 ## Computer skills
 
-![AUTOCAD ICON]: (/images/autocad.png)
+![]:(/images/autocad.png)
 
 
 
