@@ -102,8 +102,11 @@ _2013-2014 - North Melbourne_
 
 ## Languages
 
-|**LANGUAGE**|**LEVEL**|
-|English|Fluent|
-|Spanish|Native|
-|Italian|Conversational|
+ | **LANGUAGE** |   **LEVEL**  |
+ |--------------|--------------|
+ | English      | Fluent       |
+ | Spanish      | Native       |
+ | Italian      |Conversational|
+ 
+ 
 
