@@ -111,15 +111,7 @@ _2013-2014 - North Melbourne_
  
 ## Computer skills
 
-<img src="./assests/images/autocad.png" width="75" height="75">
-
-<img src="/images/sketchup.png" width="75">
-
-<img src="/images/microsoftoffice.png" width="75">
-
 ![autocad](./assets/images/autocad.png)
-
-![sketchup](./assets/images/sketchup.png){: width=75px}
 
 
 
