@@ -111,6 +111,6 @@ _2013-2014 - North Melbourne_
  
 ## Computer skills
 
-![](./resume/images/microsoftoffice.png)
+![](../resume/images/microsoftoffice.png)
 
 
