@@ -109,4 +109,7 @@ _2013-2014 - North Melbourne_
  | Italian      |Conversational|
  
  
+## Computer skills
+
+![](https://./resume/assests/images/microsoftoffice.png)
 
