@@ -117,7 +117,7 @@ _2013-2014 - North Melbourne_
 
 <img src="/images/microsoftoffice.png" width="75">
 
-![autocad](./assets/images/autcad.png)
+![autocad](./assets/images/autocad.png)
 
 
 
