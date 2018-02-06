@@ -98,3 +98,12 @@ _2013-2014 - North Melbourne_
 - **Certificate IV in General English** 
 
 [Southern Cross Education Institute](http://scei.edu.au/)
+
+
+## Languages
+
+|**LANGUAGE**|**LEVEL**|
+|English|Fluent|
+|Spanish|Native|
+|Italian|Conversational|
+
