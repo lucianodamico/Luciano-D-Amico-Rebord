@@ -111,5 +111,5 @@ _2013-2014 - North Melbourne_
  
 ## Computer skills
 
-![](https://./resume/assests/images/microsoftoffice.png)
+![](https://github.com/lucianodamico/resume/assests/images/microsoftoffice.png)
 
