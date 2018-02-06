@@ -1,5 +1,5 @@
 ## Experience
----
+
 ### McIntyre and Cross Architects
 *December 2016 - Current | Collingwood*
 
@@ -89,7 +89,7 @@ In General: Architectural (Planning and Working). Drawing packages for Commercia
      - Prepare Architectural Working Drawings
      - Set up Structural, Civil and Concrete Panel elevation drawings
 
----
+
 ## Education
 
 _2013-2014 - North Melbourne_
@@ -97,4 +97,4 @@ _2013-2014 - North Melbourne_
 - **Certificate III in General English**
 - **Certificate IV in General English** 
 
-[Southern Cross Education Institute](https://scei.edu.au/)
+[Southern Cross Education Institute](http://scei.edu.au/)
