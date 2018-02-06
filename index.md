@@ -111,7 +111,8 @@ _2013-2014 - North Melbourne_
  
 ## Computer skills
 
-![alt text](https://github.com/lucianodamico/resume/images/autocad.png "Logo Title Text 1")
+[logo]: https://github.com/lucianodamico/images/autocad.png "Logo Title Text 2"
+
 
 
 
