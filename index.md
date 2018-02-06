@@ -111,11 +111,11 @@ _2013-2014 - North Melbourne_
  
 ## Computer skills
 
-![](./images/autocad.png)
+<img src="/images/autocad.png" width="75">
 
 <img src="/images/sketchup.png" width="75">
 
-![https://www.adobe.com/au/products/photoshop-lightroom.html](./images/lightroom.png){width=50%}
+<img src="/images/microsoftoffice.png" width="75">
 
 
 
