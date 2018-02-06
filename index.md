@@ -111,7 +111,8 @@ _2013-2014 - North Melbourne_
  
 ## Computer skills
 
-[logo]: https://github.com/lucianodamico/images/autocad.png "Logo Title Text 2"
+[AUTOCAD ICON]: (/images/autocad.png)
+
 
 
 
