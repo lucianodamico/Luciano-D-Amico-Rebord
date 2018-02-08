@@ -113,7 +113,7 @@ _2013-2014 - North Melbourne_
 
    **AUTOCAD**
 
-![autocad](./assets/images/autocad.png) 
+
 
 - Version: 2018
 - Working since: v.2005
