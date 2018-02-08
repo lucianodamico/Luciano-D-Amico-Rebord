@@ -122,7 +122,7 @@ _2013-2014 - North Melbourne_
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
         <h3>AUTOCAD</h3>
-        <pre><code class="language-c">![autocad](./assets/images/autocad.png) 
+        <pre><code class="language-c"><img src = "./assets/images/autocad.png"> 
 
 - Version: 2018
 - Working since: v.2005
