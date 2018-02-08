@@ -122,19 +122,21 @@ _2013-2014 - North Melbourne_
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
         <h4>AUTOCAD</h4>
-        <pre><code class="language-c"><img src = "./assets/images/autocad.png"> 
-<h5>Version: 2018</h5>
-<h5>Working since: v.2005</h5>
-<h5>Level: 2D Proficient / 3D Intermediate</h5>
-</code></pre>
+        <pre><code class="language-c">
+        <img src = "./assets/images/autocad.png"> 
+        <h5>Version: 2018</h5>
+        <h5>Working since: v.2005</h5>
+        <h5>Level: 2D Proficient / 3D Intermediate</h5>
+        </code></pre>
     </div>
     <div style="display: inline-block;">
-        <h4>Bad</h4>
-        <pre><code class="language-c">< img src = './assets/images/sketchup.png">
-<dd>- Version: 2017</dd>
-<dd>- Level: intermediate</dd>
- <dd>   </dd>
-</code></pre>
+        <h4>SketchUp</h4>
+        <pre><code class="language-c">
+        <img src = "./assets/images/sketchup.png">
+        <h5>Version: 2017</h5>
+        <h5>Level: intermediate</h5>
+        <h5>   </h5>
+        </code></pre>
     </div>
 </div>
 
