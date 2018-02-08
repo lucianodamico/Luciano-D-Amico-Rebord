@@ -123,9 +123,9 @@ _2013-2014 - North Melbourne_
     <div style="display: inline-block;">
         <h4>AUTOCAD</h4>
         <pre><code class="language-c"><img src = "./assets/images/autocad.png"> 
-<dd>- Version: 2018</dd>
-<dd>- Working since: v.2005</dd>
-<dd>- Level: 2D Proficient / 3D Intermediate</dd>
+<h5>- Version: 2018</h5>
+<h5>- Working since: v.2005</h5>
+<h5>- Level: 2D Proficient / 3D Intermediate</h5>
 </code></pre>
     </div>
     <div style="display: inline-block;">
