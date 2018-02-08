@@ -118,9 +118,10 @@ _2013-2014 - North Melbourne_
 - Version: 2018
 - Working since: v.2005
 - Level: 2D Proficient / 3D Intermediate
+
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <h2>Good</h2>
+        <h3>Good</h3>
         <pre><code class="language-c">int foo (void) 
 {
     int i;
@@ -128,8 +129,9 @@ _2013-2014 - North Melbourne_
 </code></pre>
     </div>
     <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
+        <h3>Bad</h3>
+        <pre><code class="language-c">int foo (void)
+{
     int i;
 }
 </code></pre>
