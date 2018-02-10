@@ -111,7 +111,7 @@ _2013-2014 - North Melbourne_
  
 ## Computer skills
 
-```
+
 **AUTOCAD**
 
 ![autocad](./assets/images/autocad.png) 
@@ -119,13 +119,15 @@ _2013-2014 - North Melbourne_
 - Edition: 2018
 - Working since: v.2005
 - Level: 2D Proficient / 3D Intermediate
-```
+
+---
 
 **MICROSOFT OFFICE**
 
 ![microsoft office](./assets/images/microsoftoffice.png) 
 
 - Level: Proficient
+
 ---
 
 **ADOBE ACROBAT PRO**
@@ -134,6 +136,7 @@ _2013-2014 - North Melbourne_
 
 - Level: Proficient
 
+---
 
 **SKETCHUP PRO**
 
@@ -141,9 +144,23 @@ _2013-2014 - North Melbourne_
 
 - Level: Intermediate
 
+---
 
+**ADOBE PHOTOSHOP**
 
+![photoshop](./assets/images/photoshop.png) 
 
+- Level: Intermediate
+
+---
+
+**ADOBE LIGHTROOM**
+
+![LIGHTROOM](./assets/images/lightroom.png) 
+
+- Level: Intermediate
+
+---
 
 
 
