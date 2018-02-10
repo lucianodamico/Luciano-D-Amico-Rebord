@@ -110,7 +110,7 @@ _2013-2014 - North Melbourne_
  
  
 ## Computer skills
-
+'''
 **AUTOCAD**
 
 ![autocad](./assets/images/autocad.png) 
@@ -118,7 +118,7 @@ _2013-2014 - North Melbourne_
 - Edition: 2018
 - Working since: v.2005
 - Level: 2D Proficient / 3D Intermediate
----
+'''
 
 **MICROSOFT OFFICE**
 
