@@ -102,7 +102,7 @@ _2013-2014 - North Melbourne_
 
 ## Languages
 
- | *`LANGUAGE`* | *`LEVEL`* |
+ | *LANGUAGE*   | *LEVEL*      |
  |--------------|--------------|
  | English      | Fluent       |
  | Spanish      | Native       |
@@ -119,25 +119,13 @@ _2013-2014 - North Melbourne_
 - Working since: v.2005
 - Level: 2D Proficient / 3D Intermediate
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h4>AUTOCAD</h4>
-        <pre><code class="language-c"><img src = "./assets/images/autocad.png"> 
-- Version: 2018
-- Working since: v.2005
-- Level: 2D Proficient / 3D Intermediate
-        </code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h4>SketchUp</h4>
-        <pre><code class="language-c">
-        <img src = "./assets/images/sketchup.png">
-        <h5>Version: 2017</h5>
-        <h5>Level: intermediate</h5>
-        <h5>   </h5>
-        </code></pre>
-    </div>
-</div>
+   **MICROSOFT OFFICE**
+
+![microsoft office](./assets/images/microsoftoffice.png) 
+
+- Level: Proficient
+
+
 
 
 
