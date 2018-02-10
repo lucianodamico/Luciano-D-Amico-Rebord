@@ -115,17 +115,17 @@ _2013-2014 - North Melbourne_
 
 ![autocad](./assets/images/autocad.png) 
 
-- Version: 2018
+- Edition: 2018
 - Working since: v.2005
 - Level: 2D Proficient / 3D Intermediate
-
+---
 
 **MICROSOFT OFFICE**
 
 ![microsoft office](./assets/images/microsoftoffice.png) 
 
 - Level: Proficient
-
+---
 
 **ADOBE ACROBAT PRO**
 
