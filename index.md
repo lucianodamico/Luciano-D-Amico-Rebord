@@ -162,7 +162,8 @@ _2013-2014 - North Melbourne_
 
 ---
 
-
+.percentbar { background:#CCCCCC; border:1px solid #666666; height:10px; }
+.percentbar div { background: #28B8C0; height: 10px; }
 
 
 
