@@ -48,6 +48,8 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
      
      **_2-Geelong Rd - Brooklyn._**
      
+     **_3-Toorak Rd - Camberwell._**
+     
      **_Prepared documentation for Tender and Building Approval. Task completed included:_**
       - Proposed site plan
       - Floor plan and Set-out plan
