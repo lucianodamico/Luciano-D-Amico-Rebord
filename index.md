@@ -42,13 +42,17 @@ Drawings packages for Commercial and Residential Projects. Refer to further brea
      - Revise Architectural Planning Drawings for Council endorsement
    * Specific new Commercial – Retail project:
    
-     **_New BP Petrol Station site Donnybrook Rd – Merrifield. Prepared documentation for Tender and Building Approval._**
+     **_New BP Petrol Station. List of sites below:_**
+     **_* Donnybrook Rd – Merrifield._**
+     **_* Geelong Rd - Brooklyn._**
+     **_Prepared documentation for Tender and Building Approval. Task completed included:_**
       - Proposed site plan
-      - Floor plan
+      - Floor plan and Set-out plan
+      - Reflected ceiling and Roof Plan
       - Elevations and sections
       - Internal elevations
       - Section detail and Construction details
-      - Roof plan and Signage plan
+      - Signage plan
       - Door & Windows schedules
       - Finishes schedules
       - Equipment schedule
